@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Saturn\\CarND-Traffic-Sign-Classifier-Project\\Sermanet_LeCun"
+all_model_checkpoint_paths: "C:\\Users\\Saturn\\CarND-Traffic-Sign-Classifier-Project\\Sermanet_LeCun"
